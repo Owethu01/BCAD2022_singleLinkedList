@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtIhAHLqY0CnnSlPp1+u4Wzl0jKrDNOLULHRpP2BeyN1+rHq21ly+cfP89kkNu76lB4/cEfVg9GXalBzwMai9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\source\\repos\\WinFormsApp2022_Single_link_list\\WinFormsApp2022_Single_link_list.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

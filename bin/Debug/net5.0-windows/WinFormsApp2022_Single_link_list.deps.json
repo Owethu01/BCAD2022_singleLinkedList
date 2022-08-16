@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormsApp2022_Single_link_list/1.0.0": {
+        "runtime": {
+          "WinFormsApp2022_Single_link_list.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsApp2022_Single_link_list/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
